@@ -1,0 +1,77 @@
+		<ion-side-menus ng-controller='TodoCtrl'>
+    <!-- Center content -->
+    	<ion-side-menu-content>
+      	<ion-header-bar class="bar-assertive align-title="left">
+					
+					<button class="button button-icon button-clear ion-navicon-round" menu-toggle="left">
+  				</button>
+
+  				<h1 class="title">MyPlan</h1>
+
+					<button class="button button-icon" ng-click="newEvent()">
+ 						<i class="icon ion-earth"></i>
+				  </button>
+      	</ion-header-bar>
+   				<ion-pane>
+    			<ion-tabs class="tabs-icon-top tabs-assertive tabs-color-active-dark">
+						<ion-tab title="Publicos" icon-off="ion-filing" icon-on="ion-filing" href="#/tab/public">
+						</ion-tab>
+						<ion-tab title="Privados" icon-off="ion-calendar" icon-on="ion-calendar" href="#/tab/private">
+						</ion-tab>
+						<ion-tab title="Promotions" icon-off="ion-briefcase" icon-on="ion-briefcase" href="#/tab/promotions">
+						</ion-tab>
+					</ion-tabs>
+				</ion-pane>
+
+			</ion-side-menu-content>
+
+					<!-- Left menu -->
+					<ion-side-menu side="left">
+						<ion-header-bar class="bar-dark">
+						</ion-header-bar>
+						<ion-content>
+							<ion-list>
+								<a class="button button-clear button-small button-dark button-block icon icon-left ion-person">Perfil</a>
+								<a class="button button-clear button-small button-dark button-block icon icon-left ion-wrench">Ajustes</a>
+								<a href="#/login" class="button button-clear button-dark button-block icon icon-left ion-log-out button-small" >Desconectarse</a>
+							</ion-list>
+						</ion-content>
+					</ion-side-menu>
+		</ion-side-menus>
+
+<script id="new-event.html" type="text/ng-template">
+
+  <div class="modal" style="width: 70%; height: 70%; top: 15%; left: 15%; right: 15%; bottom: 15%;">
+
+    <!-- Modal header bar -->
+    <ion-header-bar class="bar-secondary">
+      <h1 class="title">Nuevo evento</h1>
+      <button class="button button-clear button-dark icon ion-close-round" ng-click="closeNewEvent()"></button>
+    </ion-header-bar>
+
+    <!-- Modal content area -->
+    <ion-content>
+
+      <form ng-submit="createEvent(event)">
+        <div class="list">
+          <label class="item item-input">
+            <input type="text" placeholder="Titulo" ng-model="event.title">
+          </label>
+	  <label class="item item-input">
+            <input type="text" placeholder="Descripcion" ng-model="event.descrip">
+          </label>
+        </div>
+        <div class="padding">
+          <button type="submit" class="button button-block button-small button-assertive">Crear evento</button>
+        </div>
+      </form>
+
+    </ion-content>
+
+  </div>
+
+</script>
+    	
+
+
+

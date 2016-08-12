@@ -1,0 +1,17 @@
+
+  <ion-content ng-controller='AskEvent'> 
+		<div class="list list-inset" style="background-color:positive;">
+			<div class="card" ng-repeat="event in publics">
+				<div class="item item-body">
+					<img src={{event.img}} style="height:100px; float:left; border-radius: 20%">
+					<h1 style="float:right; padding: 3px 3px 3px 3px; position:relative; bottom:30px; left:5px">{{event.title}}</h1>
+				</div>
+
+				<div class="item item-body">
+					<img  src={{event.map}} style="height:200px; float:right">
+					<h3 style="float:left position:relative; bottom:30px; left:5px">{{event.descrip}}</h3>
+				</div>
+			</div>
+		</div>
+	</ion-content>
+
