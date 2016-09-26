@@ -24,7 +24,7 @@ app.config(function($stateProvider, $urlRouterProvider) {
     url: '/public',
     views: {
       'public': {
-        templateUrl: 'templates/public.html'
+        templateUrl: "templates/public.html"
       }
     }
   })                                  
@@ -32,7 +32,7 @@ app.config(function($stateProvider, $urlRouterProvider) {
     url: '/private',
     views: {
       'private': {
-        templateUrl: 'templates/private.html'
+        templateUrl: "templates/private.html"
       }
     }
   })                                    
@@ -40,13 +40,13 @@ app.config(function($stateProvider, $urlRouterProvider) {
     url: '/promotions',
     views: {
       'promotions': {
-        templateUrl: 'templates/promotions.html'
+        templateUrl: "templates/promotions.html"
       }
     }
   })
   .state('login', {
     url: '/login',
-		templateUrl: 'templates/login.html'
+		templateUrl: "templates/login.html"
 				
   })
 ;

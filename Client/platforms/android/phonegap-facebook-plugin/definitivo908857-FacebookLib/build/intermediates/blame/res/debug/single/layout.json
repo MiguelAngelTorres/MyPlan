@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/build/intermediates/res/merged/debug/layout/com_facebook_picker_title_bar.xml",
+        "source": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/res/layout/com_facebook_picker_title_bar.xml"
+    },
+    {
+        "merged": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/build/intermediates/res/merged/debug/layout/com_facebook_picker_title_bar_stub.xml",
+        "source": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/res/layout/com_facebook_picker_title_bar_stub.xml"
+    },
+    {
+        "merged": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/build/intermediates/res/merged/debug/layout/com_facebook_picker_activity_circle_row.xml",
+        "source": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/res/layout/com_facebook_picker_activity_circle_row.xml"
+    },
+    {
+        "merged": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/build/intermediates/res/merged/debug/layout/com_facebook_picker_list_section_header.xml",
+        "source": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/res/layout/com_facebook_picker_list_section_header.xml"
+    },
+    {
+        "merged": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/build/intermediates/res/merged/debug/layout/com_facebook_friendpickerfragment.xml",
+        "source": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/res/layout/com_facebook_friendpickerfragment.xml"
+    },
+    {
+        "merged": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/build/intermediates/res/merged/debug/layout/com_facebook_picker_list_row.xml",
+        "source": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/res/layout/com_facebook_picker_list_row.xml"
+    },
+    {
+        "merged": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/build/intermediates/res/merged/debug/layout/com_facebook_picker_checkbox.xml",
+        "source": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/res/layout/com_facebook_picker_checkbox.xml"
+    },
+    {
+        "merged": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/build/intermediates/res/merged/debug/layout/com_facebook_placepickerfragment_list_row.xml",
+        "source": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/res/layout/com_facebook_placepickerfragment_list_row.xml"
+    },
+    {
+        "merged": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/build/intermediates/res/merged/debug/layout/com_facebook_picker_image.xml",
+        "source": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/res/layout/com_facebook_picker_image.xml"
+    },
+    {
+        "merged": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/build/intermediates/res/merged/debug/layout/com_facebook_placepickerfragment.xml",
+        "source": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/res/layout/com_facebook_placepickerfragment.xml"
+    },
+    {
+        "merged": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/build/intermediates/res/merged/debug/layout/com_facebook_usersettingsfragment.xml",
+        "source": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/res/layout/com_facebook_usersettingsfragment.xml"
+    },
+    {
+        "merged": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/build/intermediates/res/merged/debug/layout/com_facebook_search_bar_layout.xml",
+        "source": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/res/layout/com_facebook_search_bar_layout.xml"
+    },
+    {
+        "merged": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/build/intermediates/res/merged/debug/layout/com_facebook_login_activity_layout.xml",
+        "source": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/res/layout/com_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/build/intermediates/res/merged/debug/layout/com_facebook_picker_search_box.xml",
+        "source": "/home/usuario/IonicProjects/git_MyPlan/Client/platforms/android/phonegap-facebook-plugin/definitivo908857-FacebookLib/res/layout/com_facebook_picker_search_box.xml"
+    }
+]

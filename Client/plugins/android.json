@@ -24,6 +24,11 @@
         },
         "ionic-plugin-keyboard": {
             "PACKAGE_NAME": "com.ionicframework.definitivo908857"
+        },
+        "phonegap-facebook-plugin": {
+            "APP_ID": "1632078853772791",
+            "APP_NAME": "MyPlan",
+            "PACKAGE_NAME": "com.ionicframework.definitivo908857"
         }
     },
     "dependent_plugins": {}
